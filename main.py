@@ -11,8 +11,8 @@ import os
 
 ENTRY = (
     "The best meal I ever had was soto ayam at 2 a.m. on a Jakarta pavement, "
-    "eaten cross-legged beside the cart, the broth so hot it fogged my glasses "
-    "and tasted like the city finally forgiving me."
+    "eaten cross-legged beside the cart, steam fogging my glasses while the "
+    "broth tasted like the city finally forgiving me."
 )
 
 
